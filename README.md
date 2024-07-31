@@ -15,7 +15,11 @@ This is our project for UBC CPSC 304 to practice using SQL. This project helps i
 ## Instruction
 
 1. Clone this project
-2. run "npm run dev" in the "frontend" directory
-3. run "npm run dev" in the "backend" directory simultaneously
+2. run `npm run dev` in the "frontend" directory
+3. run `npm run dev` in the "backend" directory simultaneously
 4. go to [localhost:5137](http://localhost:5173/)
 5. Enjoy the website
+
+## More about this project
+
+We have included 4 milestones PDF files which show the process of developing this website including designing, drawing diagram, creating tables, writing sql queries
